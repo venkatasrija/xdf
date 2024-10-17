@@ -1,0 +1,50 @@
+Task for today 
+Read the project document and try to understand 
+-------------------------------------------------------------------------------------
+
+
+
+GitHub link:-  https://github.com/sandipmohapatra/InfosysOctoberBatch
+------------------------------------------------------------------------------------------------------------------
+1)read the project document
+2)I will divide into groups(5 members in a team)
+3)PPT .
+i)Abstract
+ii)Use case Diagram, sequence diagram.
+iii)DFD
+iv)Form Design
+v)Output Screen
+vi)Conclusion
+vii)Feature Enhancement
+4)code execution
+5)code explanation
+6)It 8 weeks after that we have presentation.
+-------------------------------------------------------------------------------------------------------------------------
+node installation
+https://nodejs.org/en/download/prebuilt-installer/current
+--------------------------------------------------------------------------------------------------------------------------
+vs code installation
+--------------------------------------------------------------------
+STS bundle
+postman
+MYSQL 8.0
+------------------------------------------------
+Spring Boot + Angular
+-----------------------------------------
+https://www.youtube.com/watch?v=LE3KvvhkUkM
+https://www.youtube.com/watch?v=Do87D4TJ9M8
+https://www.youtube.com/watch?v=lpPiM5MIAoQ
+https://www.youtube.com/watch?v=Iax4vA4MEPU
+
+Spring Boot + ReactJS
+---------------------------------------------
+https://www.youtube.com/watch?v=kGXgibT2vyw
+https://www.youtube.com/watch?v=-UJByPVdLXo
+https://www.youtube.com/watch?v=pfRWCTTYDdM
+----------------------------------------------------
+https://www.youtube.com/watch?v=inGt9b6lQ0U
+https://www.onhandtrick.com/spring-boot-react-crud-example/
+----------------------------------------------------------------------------------------
+
+
+ 
